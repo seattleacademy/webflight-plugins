@@ -1,0 +1,16 @@
+#animations{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  width: 260px;
+  background: yellow;
+  opacity:50%;
+}
+
+
+
+#glasspane{
+  right: 260px;
+}
+
